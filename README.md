@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @costa03
-- 👀 I’m interested in  criar uma luva que traduz lingua gestual em texto através de uma aplicação móvel
+- 👀 I’m interested in create a glove that translates sign language into text through a mobile application
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
